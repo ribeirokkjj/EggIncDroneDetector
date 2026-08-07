@@ -1,0 +1,1 @@
+o principal é o droneclicker.py
