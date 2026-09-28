@@ -21,7 +21,7 @@ while True:
     frame = np.array(img)
     frame = cv2.cvtColor(frame, cv2.COLOR_BGRA2BGR)
 
-    results = model(frame, conf=0.3)
+    results = model(frame, conf=0.35)
 
     for r in results:
         for box in r.boxes:
