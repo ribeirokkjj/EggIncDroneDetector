@@ -15,11 +15,5 @@ Follow these steps to configure your screen and launch the automation script.
 
 ## Step 2: Run the Script
 
-1. Open your terminal or command prompt.
-2. Run the script using the following command:
-
-```bash
-python droneclicker.py
-```
-
-3. Once launched, the script will automatically track the setup area and move your mouse to click passing drones.
+1. Run droneclicker.py
+2. Once launched, the script will automatically track the entire monitor and move your mouse to click passing drones.
